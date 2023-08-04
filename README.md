@@ -1,7 +1,7 @@
 # Daily Quotes
 
 [![React.js](https://img.shields.io/badge/React.js-18.1.0-61DAFB?logo=react&logoColor=white&style=flat-square)](https://reactjs.org/)
-[![Styled Components](https://img.shields.io/badge/Styled_Components-%E2%9D%A4-DB7093?logo=styled-components&logoColor=white&style=flat-square)](https://styled-components.com/)
+[![Styled Components](https://img.shields.io/badge/Styled_Components-5.3.5-%23DB7093?logo=styled-components&logoColor=white&style=flat-square)](https://styled-components.com/)
 
 ![screenshot](/screenshot.jpg)
 
@@ -30,13 +30,13 @@ To get started with the Daily Quotes project, follow the steps below:
 1. Clone the repository:
 
    ```shell
-   git clone git@github.com:Axda-Web/socialB.git
+   git clone git@github.com:Axda-Web/dailyQuotes.git
    ```
 
 2. Change into the project directory:
 
    ```shell
-   cd socialB
+   cd dailyQuotes
    ```
 
 3. Install the project dependencies:
