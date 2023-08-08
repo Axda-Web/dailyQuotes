@@ -7,7 +7,8 @@
 
 
 ## Description
-Single Page Application displaying quotes dynamically thanks to the use of an API. It also allows to tweet the chosen quote on its Twitter account. Use of the Styled-components library for the formatting.  
+Single Page Application displaying quotes dynamically thanks to the use of an API. It also allows to tweet the chosen quote on its Twitter account. Use of the Styled-components library for the formatting.   
+
 This project explores various concepts and features including:
 
 - React State
